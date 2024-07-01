@@ -53,6 +53,7 @@ function App() {
 
   return (
     <div className="App">
+      track your money
       <main>
         <h1>
           ${balance.toFixed(2)} <span></span>
